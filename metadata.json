@@ -1,0 +1,8 @@
+{
+  "name": "Remix مستودع الفواز للأدوية - إدارة الطلبيات",
+  "description": "تطبيق ذكي للصيادلة لإنشاء مسودات طلبيات الأدوية ومزامنتها مع Google Sheets وGoogle Drive والطباعة والإرسال عبر واتساب",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
